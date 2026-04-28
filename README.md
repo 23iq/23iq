@@ -6,7 +6,7 @@
 
 <br>
 
-<p>18 y.o</p>
+<p>19 y.o</p>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=white" height="35">
